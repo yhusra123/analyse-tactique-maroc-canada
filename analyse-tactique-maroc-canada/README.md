@@ -12,7 +12,7 @@ L’application affiche :
 
 ---
 
-## 📸 Aperçus de l’interface
+##  Aperçus de l’interface
 
 ### Page d'accueil
 ![Accueil](captures/accueil.png)
@@ -47,5 +47,6 @@ Projet académique – Analyse tactique assistée par données
 
 ---
 
-📌 *Remarque : le code source complet n’est pas partagé publiquement.*
+*Remarque : le code source complet n’est pas partagé publiquement.*
+
 
